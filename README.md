@@ -63,7 +63,23 @@ Proceed as follows:
 
    ------
 
-## 5.Code references
+## 5. Result display
+
+### The framework
+
+![image-20210730111441224](C:\Users\16050\AppData\Roaming\Typora\typora-user-images\image-20210730111441224.png)
+
+### Two- images input performance
+
+![image-20210730111314648](C:\Users\16050\AppData\Roaming\Typora\typora-user-images\image-20210730111314648.png)
+
+![image-20210730111213287](C:\Users\16050\AppData\Roaming\Typora\typora-user-images\image-20210730111213287.png)
+
+### Multi-images input performance
+
+![image-20210730110831984](C:\Users\16050\AppData\Roaming\Typora\typora-user-images\image-20210730110831984.png)
+
+## 6. Code references
 
 Chen Y S , Chuang Y Y . Natural Image Stitching with the Global Similarity Prior[C]// European Conference on Computer Vision. Springer International Publishing, 2016.
 
