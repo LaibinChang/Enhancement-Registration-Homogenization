@@ -13,7 +13,7 @@ for i = 1:I_num
 %% The First Step: Underwater Image Color Balance.
 %%%%%%% The compensation of red channel attenuation
     %picname = i;
-    path = strcat('ImagesData\original_input\test4-aquatic-plants\test',int2str(i),'.jpg');%%% please change the path according to your input images.
+    path = strcat('ImagesData\original_input\test2-people\people',int2str(i),'.jpg');%%% please change the path according to your input images.
     rgbImage=double(imread(path))/255;
     grayImage = rgb2gray(rgbImage);
     Ir = rgbImage(:,:,1);
@@ -149,7 +149,7 @@ end
     B = pyramid_reconstruct(Rb);
     I_E = cat(3, R, G, B);
     figure('name', 'Multi scale fusion');
-    %imshow(I_E);
+    imshow(I_E);
     %Since the underwater environment is changeable and complex, the enhancement performance is
     %better after the image is histogram stretched. According to your task, you can try it.
 %     I_E = im2uint8(I_E);
@@ -159,15 +159,15 @@ end
     
     path= '.\ImagesData\enhanced_images';
     oldFolder = cd(path);
-    mkdir test4-aquatic-plants         %new folder
+    mkdir test2-people         %new folder
     %imwrite(Ilabs,strcat('test4-people/test4-enhanced',int2str(i),'.png')) %the path of save should be changed.
-    imwrite(I_E,strcat('test4-aquatic-plants/test4-enhanced',int2str(i),'.png')) %the path of save should be changed.
+    imwrite(I_E,strcat('test2-people/test2-enhanced',int2str(i),'.png')) %the path of save should be changed.
     cd(oldFolder)
 end
 ExeFileName= 'ERH.exe';
 ExeFilePath= fullfile(ExeFileName);
 %name
-param1= 'test4-aquatic-plants'; %The name should be the same as the new folder created earlier
+param1= 'test2-people'; %The name should be the same as the new folder created earlier
 Cmd = [ExeFilePath,' ',param1]
 system(Cmd);
 toc(s);
