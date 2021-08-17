@@ -81,7 +81,7 @@ Proceed as follows:
 
 ## 6. Code references
 
-Chen Y S , Chuang Y Y . Natural Image Stitching with the Global Similarity Prior[C]// European Conference on Computer Vision. Springer International Publishing, 2016.
+Natural Image Stitching with Global Similarity Prior. Proceedings of European Conference on Computer Vision 2016 (ECCV 2016), Part V, pp. 186-201, October 2016, Amsterdam, Netherland. https://github.com/nothinglo/NISwGSP
 
 
 If you encounter any difficulties or problems  in the implementation process, please contact us at changlb666@163.com.
