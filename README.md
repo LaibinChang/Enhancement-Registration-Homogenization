@@ -48,7 +48,7 @@ Proceed as follows:
  5. Change the code in "Reconstruction_main.m" according to your corresponding folders that you put into the enhanced image.
 
     ```
-    param1=[' ','Reconstration_with_two_images'];%Modify it based on the corresponding folder you select.
+    param1=[' ','Reconstration_with_two_images']; % Modify it based on the corresponding folder you select.
     ```
 
  6. Then run the "Reconstruction_main.m" to get the final reconstructed images, which are in the  "reconstructed_images" folder.
