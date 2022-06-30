@@ -69,7 +69,7 @@ Proceed as follows:
 
 ### Multi-images input performance
 
-![image-20210730110831984](C:\Users\16050\AppData\Roaming\Typora\typora-user-images\image-20210730110831984.png)
+![image-20210730110831984](images\image-20210730111213287.png)
 
 ## 6. Code references
 
