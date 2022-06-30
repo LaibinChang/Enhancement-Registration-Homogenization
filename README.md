@@ -69,7 +69,7 @@ Proceed as follows:
 
 ### Multi-images input performance
 
-![image-20210730110831984](images\image-20210730111213287.png)
+([images\image-20210730111213287.png](https://raw.githubusercontent.com/LaibinChang/Enhancement-Registration-Homogenization-A-Comprehensive-Underwater-Visual-Reconstruction-Para/master/images/image-20210730110831984.png))
 
 ## 6. Code references
 
