@@ -59,13 +59,13 @@ Proceed as follows:
 
 ### The framework
 
-![image-20210730111441224](C:\Users\16050\AppData\Roaming\Typora\typora-user-images\image-20210730111441224.png)
+![image-20210730111441224](https://raw.githubusercontent.com/LaibinChang/Enhancement-Registration-Homogenization-A-Comprehensive-Underwater-Visual-Reconstruction-Para/master/images/image-20210730111441224.png)
 
 ### Two- images input performance
 
-![image-20210730111314648](C:\Users\16050\AppData\Roaming\Typora\typora-user-images\image-20210730111314648.png)
+![image-20210730111314648](https://raw.githubusercontent.com/LaibinChang/Enhancement-Registration-Homogenization-A-Comprehensive-Underwater-Visual-Reconstruction-Para/master/images/image-20210730111314648.png)
 
-![image-20210730111213287](C:\Users\16050\AppData\Roaming\Typora\typora-user-images\image-20210730111213287.png)
+![image-20210730111213287](https://raw.githubusercontent.com/LaibinChang/Enhancement-Registration-Homogenization-A-Comprehensive-Underwater-Visual-Reconstruction-Para/master/images/image-20210730111213287.png)
 
 ### Multi-images input performance
 
