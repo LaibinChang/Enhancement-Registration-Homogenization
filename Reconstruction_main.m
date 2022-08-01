@@ -8,6 +8,6 @@ clc;
 ExeFileName= 'ERH.exe';
 ExeFilePath= fullfile(ExeFileName);
 %name:你的文件夹名
-param1=[' ','Reconstration_with_two_images'];%Modify it according to your folder name.
+param1=[' ','Reconstruction_with_two_images'];%Modify it according to your folder name.
 Cmd = [ExeFilePath,param1]
 system(Cmd);
