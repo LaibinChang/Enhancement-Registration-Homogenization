@@ -45,12 +45,12 @@ Proceed as follows:
 
 ​		After running this Enhancement_main.m, you would get the enhanced results in the corresponding folder.
 
- 4. You should copy the enhanced results to the corresponding folder, which are based on the number of your images. These  corresponding folders include the "Reconstruction_with_two_images, Reconstruction_with_three_images, Reconstruction_with_four_images, Reconstruction_with_five_images,  Reconstruction_with_six_images.
+ 4. You should copy the enhanced results to the corresponding folder, which are based on the number of your images. These  corresponding folders include the "Rec_Two_images, Rec_Three_images, Rec_Four_images, Rec_Five_images,  Rec_Six_images.
 
  5. Change the code in "Reconstruction_main.m" according to your corresponding folders that you put into the enhanced image.
 
     ```
-    param1=[' ','Reconstration_with_two_images']; % Modify it based on the corresponding folder you select.
+    param1=[' ','Rec_Two_images']; % Modify it based on the corresponding folder you select.
     ```
 
  6. Then run the "Reconstruction_main.m" to get the final reconstructed images, which are in the  "reconstructed_images" folder.
