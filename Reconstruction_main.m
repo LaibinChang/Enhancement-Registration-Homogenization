@@ -5,6 +5,7 @@ close all;
 clear all;
 clc;
 %cd 
+addpath('./COS_code');
 ExeFileName= 'ERH.exe';
 ExeFilePath= fullfile(ExeFileName);
 %name:你的文件夹名
