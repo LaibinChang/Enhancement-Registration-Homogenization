@@ -1,4 +1,4 @@
-# ERH-A-Comprehensive-Underwater-Visual-Reconstruction-Paradigm
+# Enhancement-Registration-Homogenization (ERH): A Comprehensive Underwater Visual Reconstruction Paradigm
 
 ------
 
@@ -38,10 +38,10 @@ Proceed as follows:
 
 ​	3. Change the code in "Enhancement_main.m" according to your new folder.
 
-- ```
-  imgPath = '.\ImagesData\original_input\test-mydataset\'; % please change the path according to your input images.
-  image_result_dir = '.\ImagesData\enhanced_images\test-mydataset\'; % the enhanced output results.
-  ```
+    ```
+    imgPath = '.\ImagesData\original_input\test-mydataset\'; % please change the path according to your input images.
+    image_result_dir = '.\ImagesData\enhanced_images\test-mydataset\'; % the enhanced output results.
+    ```
 
 ​		After running this Enhancement_main.m, you would get the enhanced results in the corresponding folder.
 
