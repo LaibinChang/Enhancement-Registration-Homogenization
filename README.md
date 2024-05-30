@@ -31,19 +31,17 @@ Open this project in MATLAB, and run the "Enhancement_main.m". You would get the
 ## 4. Test your own underwater images
 
 Proceed as follows:
+1. Put your images into the "original_input" and create a new folder named "*test-mydataset*" like the example.
 
-​	1. Put your images into the "original_input" and create a new folder named "*test-mydataset*" like the example.
+2. Put at least two original images named "*image1*" and "*image2*" in the "*test-mydataset*" folder.
 
-​	2. Put at least two original images named "*image1*" and "*image2*" in the "*test-mydataset*" folder.
-
-​	3. Change the code in "Enhancement_main.m" according to your new folder.
+3. Change the code in "Enhancement_main.m" according to your new folder.
 
     ```
     imgPath = '.\ImagesData\original_input\test-mydataset\'; % please change the path according to your input images.
     image_result_dir = '.\ImagesData\enhanced_images\test-mydataset\'; % the enhanced output results.
     ```
-
-​		After running this Enhancement_main.m, you would get the enhanced results in the corresponding folder.
+	After running this Enhancement_main.m, you would get the enhanced results in the corresponding folder.
 
  4. You should copy the enhanced results to the corresponding folder, which are based on the number of your images. These  corresponding folders include the "Rec_Two_images, Rec_Three_images, Rec_Four_images, Rec_Five_images,  Rec_Six_images.
 
