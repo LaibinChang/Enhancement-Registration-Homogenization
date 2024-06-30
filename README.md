@@ -22,13 +22,13 @@ Based on Windows 10, you should have a PC with MATLAB 2020a.
 
 ------
 
-## 3. Running Steps
+## 3. Testing Steps
 
 Open this project in MATLAB, and run the "Enhancement_main.m". You would get the enhanced results in "enhanced_images"，Then you run the "Reconstruction_main.m",  the reconstructed results are shown in "reconstructed_images". 
 
 ------
 
-## 4. Test your own underwater images
+## 4. Testing with your own underwater images
 
 Proceed as follows:
 1. Put your images into the "original_input" and create a new folder named "*test-mydataset*" like the example.
@@ -55,7 +55,7 @@ Proceed as follows:
 
 ------
 
-## 5. Result display
+## 5. Results
 
 ### The framework
 
