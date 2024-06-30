@@ -71,10 +71,7 @@ Proceed as follows:
 
 ![images\image-20210730111213287.png](https://raw.githubusercontent.com/LaibinChang/Enhancement-Registration-Homogenization-A-Comprehensive-Underwater-Visual-Reconstruction-Para/master/images/image-20210730110831984.png)
 
-## 6. Code references
+## 6. Others
 
-Chen Y S , Chuang Y Y . Natural Image Stitching with the Global Similarity Prior[C]// European Conference on Computer Vision. Springer International Publishing, 2016.
-
-
-If you encounter any difficulties or problems  in the implementation process, please contact us at changlb666@163.com.
+If you encounter any difficulties in the testing process, please feel free to contact us at changlb666@163.com.
 
