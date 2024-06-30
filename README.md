@@ -4,14 +4,6 @@
 
 ## 1.  Introduction
 
-This algorithm project is designed for the paper called "Enhancement-Registration-Homogenization (ERH) :A Comprehensive Underwater Visual Reconstruction Paradigm" by Laibin Chang, Huajun Song, and Peng Ren, etc. 
-
-**If the project is helpful to you, please cite our paper. Thanks!**.
-
-H. Song, L. Chang, Z. Chen and P. Ren, "Enhancement-Registration-Homogenization (ERH): A Comprehensive Underwater Visual Reconstruction Paradigm," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, no. 10, pp. 6953-6967, 1 Oct. 2022, doi: 10.1109/TPAMI.2021.3097804.
-
-URL: [https://ieeexplore.ieee.org/document/9490352](https://ieeexplore.ieee.org/document/9490352)
-
 This paper presents a comprehensive underwater visual reconstruction paradigm that comprises three procedures, i.e., the E-procedure, the R-procedure, and the H-procedure. The E-procedure *enhance*s original underwater images based on color compensation balance and weighted image fusion, yielding restored color, sharpened edges, and global contrast. The R-procedure *register*s multiple enhanced underwater images by exploiting global similarity and local deformation. The H-procedure *homogenize*s the registered underwater images by multi-scale composition strategy, which eliminates the inhomogeneous transition and brightness difference across overlapping regions, resulting in a reconstructed wide-field underwater image with comfortable and natural visibility. The three procedures operate in a cascade where the former procedure processes underwater images in a way that facilitates the latter one. We refer to the overall three procedures as the Enhancement-Registration-Homogenization (ERH) paradigm. Comprehensive qualitative and quantitative empirical evaluations reveal that our ERH paradigm outperforms state-of-the-art visual reconstruction methods, including the AutoStitch, APAP, SPHP, APNAP, and REW.
 
 ------
@@ -75,3 +67,8 @@ Proceed as follows:
 
 If you encounter any difficulties in the testing process, please feel free to contact us at changlb666@163.com.
 
+**If the project is helpful to you, please cite our paper. Thanks!**.
+
+H. Song, L. Chang, Z. Chen and P. Ren, "Enhancement-Registration-Homogenization (ERH): A Comprehensive Underwater Visual Reconstruction Paradigm," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, no. 10, pp. 6953-6967, 1 Oct. 2022, doi: 10.1109/TPAMI.2021.3097804.
+
+URL: [https://ieeexplore.ieee.org/document/9490352](https://ieeexplore.ieee.org/document/9490352)
