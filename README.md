@@ -1,23 +1,18 @@
 # Enhancement-Registration-Homogenization (ERH): A Comprehensive Underwater Visual Reconstruction Paradigm
-------
 
 ## 1.  Introduction
 
 This paper presents a comprehensive underwater visual reconstruction paradigm that comprises three procedures, i.e., the E-procedure, the R-procedure, and the H-procedure. The E-procedure *enhance*s original underwater images based on color compensation balance and weighted image fusion, yielding restored color, sharpened edges, and global contrast. The R-procedure *register*s multiple enhanced underwater images by exploiting global similarity and local deformation. The H-procedure *homogenize*s the registered underwater images by multi-scale composition strategy, which eliminates the inhomogeneous transition and brightness difference across overlapping regions, resulting in a reconstructed wide-field underwater image with comfortable and natural visibility. The three procedures operate in a cascade where the former procedure processes underwater images in a way that facilitates the latter one. We refer to the overall three procedures as the Enhancement-Registration-Homogenization (ERH) paradigm. Comprehensive qualitative and quantitative empirical evaluations reveal that our ERH paradigm outperforms state-of-the-art visual reconstruction methods, including the AutoStitch, APAP, SPHP, APNAP, and REW.
 
-------
-
 ## 2. Required environment
 
 Based on Windows 10, you should have a PC with MATLAB 2020a.
 
-------
 
 ## 3. Testing Steps
 
 Open this project in MATLAB, and run the "Enhancement_main.m". You would get the enhanced results in "enhanced_images"，Then you run the "Reconstruction_main.m",  the reconstructed results are shown in "reconstructed_images". 
 
-------
 
 ## 4. Testing with your own underwater images
 
@@ -44,7 +39,6 @@ Proceed as follows:
 
  6. Then run the "Reconstruction_main.m" to get the final reconstructed images, which are in the  "reconstructed_images" folder.
 
-------
 
 ## 5. Results
 
@@ -55,8 +49,6 @@ Proceed as follows:
 ### Two- images input performance
 
 ![image-20210730111314648](https://raw.githubusercontent.com/LaibinChang/Enhancement-Registration-Homogenization-A-Comprehensive-Underwater-Visual-Reconstruction-Para/master/images/image-20210730111314648.png)
-
-![image-20210730111213287](https://raw.githubusercontent.com/LaibinChang/Enhancement-Registration-Homogenization-A-Comprehensive-Underwater-Visual-Reconstruction-Para/master/images/image-20210730111213287.png)
 
 ### Multi-images input performance
 
