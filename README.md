@@ -64,8 +64,19 @@ Proceed as follows:
 
 ## 6. Others
 
-If the project is helpful to you, please cite our paper. Thanks!
+If the project is helpful to you, please consider citing the associated [paper](https://ieeexplore.ieee.org/abstract/document/9490352):
 
-H. Song, L. Chang, Z. Chen and P. Ren, "Enhancement-Registration-Homogenization (ERH): A Comprehensive Underwater Visual Reconstruction Paradigm," in IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 44, no. 10, pp. 6953-6967, 1 Oct. 2022, doi: 10.1109/TPAMI.2021.3097804.
+```
+@article{song2022ERH,
+  title={Enhancement-registration-homogenization (ERH): A comprehensive underwater visual reconstruction paradigm},
+  author={Song, Huajun and Chang, Laibin and Chen, Ziwei and Ren, Peng},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={44},
+  number={10},
+  pages={6953--6967},
+  year={2022},
+  publisher={IEEE}
+}
+```
 
 If you encounter any difficulties in the testing process, please feel free to contact us at changlb666@163.com.
