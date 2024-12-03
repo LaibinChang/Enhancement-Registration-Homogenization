@@ -1,5 +1,5 @@
 # Enhancement-Registration-Homogenization (ERH): A Comprehensive Underwater Visual Reconstruction Paradigm
-
+Enhancement-Registration-Homogenization (ERH): A Comprehensive Underwater Visual Reconstruction Paradigm
 ------
 
 ## 1.  Introduction
